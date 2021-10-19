@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
         start = findViewById(R.id.start);
         rootLayout = findViewById(R.id.rootLayout);
 
-
         start.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
